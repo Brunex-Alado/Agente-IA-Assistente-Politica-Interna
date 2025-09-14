@@ -92,7 +92,7 @@ O projeto oferece uma interface intuitiva e interativa via **Streamlit**, permit
 
 
 7. **Execute o Agente no terminal:**
-   stramlit run app.py
+   streamlit run app.py
 
 
 8. Acesse pelo navegador:
@@ -104,6 +104,7 @@ O Streamlit abrirá automaticamente em:
 Se for a primeira vez utilizando o Streamlit, apenas pressione ENTER quando solicitado um e-mail.
  
 <br/>
+
 
 
 

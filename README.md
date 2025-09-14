@@ -88,10 +88,11 @@ cp .env.example .env
 8. Acesse pelo navegador:
 
 O Streamlit abrirá automaticamente em:
-Local URL: http://localhost:8501
-Network URL: http://192.168.x.x:8501"
+  - Local URL: http://localhost:8501
+  - Network URL: http://192.168.x.x:8501"
 
 Se for a primeira vez utilizando o Streamlit, apenas pressione ENTER quando solicitado um e-mail.
  
 <br/>
+
 

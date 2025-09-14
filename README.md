@@ -48,7 +48,7 @@ Melhoria criada à parte da imersão, afim de fornecer uma interface amigável e
 
 ## 🔁 Visão Geral do Fluxo de Triagem
 
-| ![image](colocar o link raw da imagem "fluxo_de_triagem.png" upada do github aqui!) | 
+| ![image](https://raw.githubusercontent.com/Brunex-Alado/Agente-IA-Assistente-Politica-Interna/refs/heads/main/img/fluxo_de_triagem.png) | 
 
 <br/>
 
@@ -56,14 +56,14 @@ Melhoria criada à parte da imersão, afim de fornecer uma interface amigável e
 
 O projeto oferece uma interface intuitiva e interativa via **Streamlit**, permitindo que qualquer pessoa da empresa utilize o agente diretamente no navegador.
 
-| ![image](coloque o link RAW da imagem "assistente_politcas_internas.png" aqui) |
+| ![image](https://raw.githubusercontent.com/Brunex-Alado/Agente-IA-Assistente-Politica-Interna/refs/heads/main/img/assistente_politcas_internas.png) |
 
 <br/>
 
 ## ▶️ Como Executar o Agente de IA Localmente
 
 1. **Clone o repositório*:
-git clone https://github.com/Brunex-Alado/ endereço upado do repositório
+git clone https://github.com/Brunex-Alado/Agente-IA-Assistente-Politica-Interna
 
 2. Instale as dependências: pip install -r requirements.txt
 
@@ -76,10 +76,10 @@ cp .env.example .env
 5. Abra o arquivo .env e cole sua chave da API Gemini: GEMINI_API_KEY=COLE_SUA_CHAVE_GERADA_AQUI
 
 6. Configure o ".gitignore" para proteger seus dados sensíveis:
-   # Secrets
+   "# Secrets"
    .env
 
-   # Virtual env
+   "# Virtual env"
    venv/
    __pycache__/
 
@@ -94,3 +94,4 @@ Network URL: http://192.168.x.x:8501"
 Se for a primeira vez utilizando o Streamlit, apenas pressione ENTER quando solicitado um e-mail.
  
 <br/>
+

@@ -62,28 +62,38 @@ O projeto oferece uma interface intuitiva e interativa via **Streamlit**, permit
 
 ## ▶️ Como Executar o Agente de IA Localmente
 
-1. **Clone o repositório*:
-git clone https://github.com/Brunex-Alado/Agente-IA-Assistente-Politica-Interna
+1. **Clone o repositório:**
+   git clone https://github.com/Brunex-Alado/Agente-IA-Assistente-Politica-Interna
 
-2. Instale as dependências: pip install -r requirements.txt
 
-3. Configure as variáveis de ambiente:
-Copie o arquivo de exemplo ".env.example" para .env com o comando:
-cp .env.example .env
+2. **Instale as dependências:**
+   pip install -r requirements.txt
 
-4. Obtenha uma chave de API do Gemini: https://aistudio.google.com/app/apikey
 
-5. Abra o arquivo .env e cole sua chave da API Gemini: GEMINI_API_KEY=COLE_SUA_CHAVE_GERADA_AQUI
+3. **Configure as variáveis de ambiente:**
+   Copie o arquivo de exemplo ".env.example" para .env com o comando:
+   cp .env.example .env
 
-6. Configure o ".gitignore" para proteger seus dados sensíveis:
+
+4. **Obtenha uma chave de API do Gemini:**
+    https://aistudio.google.com/app/apikey
+
+
+5. **Abra o arquivo .env e cole sua chave da API Gemini:**
+    GEMINI_API_KEY=COLE_SUA_CHAVE_GERADA_AQUI
+
+
+6. **Configure o ".gitignore" para proteger seus dados sensíveis:**
    "# Secrets"
-   .env
-
+   ".env"
    "# Virtual env"
-   venv/
-   __pycache__/
+   "venv/"
+   "__pycache__/"
 
-7. Execute o Agente no terminal: streamlit run app.py
+
+7. **Execute o Agente no terminal:**
+   stramlit run app.py
+
 
 8. Acesse pelo navegador:
 
@@ -94,5 +104,6 @@ O Streamlit abrirá automaticamente em:
 Se for a primeira vez utilizando o Streamlit, apenas pressione ENTER quando solicitado um e-mail.
  
 <br/>
+
 
 

@@ -1,0 +1,24 @@
+# Biblioteca principal para interface web
+streamlit
+
+# Gerenciamento de variáveis de ambiente
+python-dotenv
+
+# Modelagem de dados com validação
+pydantic
+
+# LangChain + integração com Google Gemini
+langchain
+langchain-core
+langchain-google-genai
+langchain-community
+langchain-text-splitters
+
+# Integração com fluxos baseados em grafos
+langgraph
+
+# Leitura de PDFs
+PyMuPDF
+
+# Vetorização e busca semântica
+faiss-cpu
